@@ -1,0 +1,28 @@
+body{
+    font-family: 'Varela Round', sans-serif;
+    background-color: blue  
+}
+
+div{
+    line-height: 2em;
+    width: 50%;
+}
+#q1{
+   border: 2em outset blue;
+   background-color: white
+   
+}
+#q2{
+    border: 2em inset blue;
+    background-color: white;
+    
+}
+#q3{
+    border: 2em outset blue;
+    background-color: white;
+}     
+img{
+    float: right;
+    width: 100%;
+
+}

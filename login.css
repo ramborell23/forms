@@ -1,0 +1,19 @@
+#login{
+    text-align: center;
+    width: 100px;
+    float:left;   
+}
+
+
+.submit{
+    visibility:hidden;
+}
+input:valid{
+    border: 3px solid green;
+}
+
+input:focus { 
+    background-color: yellow;
+}
+
+
